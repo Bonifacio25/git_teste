@@ -2,4 +2,4 @@
 
 include ('index.html');
 
-echo 'Olá mundo';
+echo 'Olá mundo do php';
